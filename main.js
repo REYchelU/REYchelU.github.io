@@ -1,22 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
 <title>Rachel Yu</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="css/w3.css">
-<link rel="stylesheet" href="css/style.css">
 
-<!-- <script src="main.js"></script> -->
-<script>
-  function TestFunction()
-  {
-
-  }
-</script>
-
-</head>
+<link rel="stylesheet" href="/css/w3.css">
 
 <body>
 
@@ -37,11 +26,7 @@
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
   <img class="w3-image" src="images/breathe.jpg" alt="Home Image" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>
-
-    UNDER CONSTRUCTION<br><br>
-
-    REY</b></span> <span class="w3-hide-small w3-text-light-grey">chelU</span></h1>
+    <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>REY</b></span> <span class="w3-hide-small w3-text-light-grey">chelU</span></h1>
   </div>
 </header>
 
@@ -104,7 +89,7 @@
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About Me</h3>
     <p>Hi! My name is Rachel Yu. I'm currently a 4th year computer science student at University of California, Irvine. I'm on track to graduate by December this year, 2017, so I'm quite excited for that.</p>
     <p>If it isn't obvious enough, I love dogs. I love animals in general, but dogs hold a special place in my heart. If I'm not looking at dog videos or playing with my own dogs, I'm hacking, playing video games, drawing, or discovering new things on the internet. </p>
-    <p>REYchelU is my screen name. 'REY' are my initials and the letter 'U' is how my last name is pronounced. All together, the screen name simply reads Rachel Yu. Coincidentally, the capitalized letters make up my email address: <a href="mailto:reyu@uci.edu">reyu@uci.edu</a></p>
+    <p>REYchelU is my screen name. 'REY' are my initials and the letter 'U' how my last name is pronounced. All together, the screen name simply reads Rachel Yu. Coincidentally, the capitalized letters make up my email address: <a href="mailto:reyu@uci.edu">reyu@uci.edu</a></p>
   </div>
 
   <div class="w3-row-padding w3-grayscale">
