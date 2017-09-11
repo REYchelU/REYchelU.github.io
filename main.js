@@ -87,9 +87,13 @@
   <!-- About Section -->
   <div class="w3-container w3-padding-32" id="about">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About Me</h3>
-    <p>Hi! My name is Rachel Yu. I'm currently a 4th year computer science student at University of California, Irvine. I'm on track to graduate by December this year, 2017, so I'm quite excited for that.</p>
+    <p>Hi! My name is Rachel Yu. I'm currently a 4th year computer science student at University of California, Irvine. 
+
+    <!--I'm on track to graduate by December this year, 2017, so I'm quite excited for that.</p>
     <p>If it isn't obvious enough, I love dogs. I love animals in general, but dogs hold a special place in my heart. If I'm not looking at dog videos or playing with my own dogs, I'm hacking, playing video games, drawing, or discovering new things on the internet. </p>
     <p>REYchelU is my screen name. 'REY' are my initials and the letter 'U' how my last name is pronounced. All together, the screen name simply reads Rachel Yu. Coincidentally, the capitalized letters make up my email address: <a href="mailto:reyu@uci.edu">reyu@uci.edu</a></p>
+    --!>
+      
   </div>
 
   <div class="w3-row-padding w3-grayscale">
